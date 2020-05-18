@@ -1,0 +1,66 @@
+body {
+  background-color: #ffd460;
+}
+
+.border-bottom {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: rgba(0,0,0,.125);
+}
+
+.sm-col-3 {
+  float: left;
+  box-sizing: border-box;
+}
+
+
+.container {
+  max-width: 38em;
+}
+
+   
+.px2 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.p3 {
+  padding: 1rem;
+}
+
+.px3 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.py3 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+header {
+  display: block;
+}
+hr {
+  border-style: dotted none none;
+  border-width: thick;
+  width: 5%;
+  color: #2d4059;
+}
+h1 {
+  color: #2d4059;
+}
+h3 {
+  color: #2d4059;
+}
+
+p {
+    font-size: 1rem;
+}
+
+/**************CLASS********************************/
+
+/* .telvin {
+  border-radius: 80%
+
+} */
